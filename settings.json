@@ -1,0 +1,53 @@
+{
+  "bot-account": {
+    "username": "motmexbot",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "kolayip.aternos.me",
+    "port": 25272,
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+
+      "messages": [
+        "bu sunucuyu 7/24 açık tutmak için burdayım ",
+        "yerimde zıplamak dışında bişi yapamıyom daha o kadar gelişmedim",
+        "keşke bende sizle oynayabilsem",
+        "beni öldürmek istiyorsan istediğin kadar öldür merak etme geri doğamayacak kadar gerizekalı bi bot değilim",
+        "burağı götten :D",
+        "ömer abi sende anca gamemodla oyna oyunu"
+        
+        
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
